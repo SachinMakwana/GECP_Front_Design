@@ -2039,7 +2039,7 @@
     width: 100%;
     text-align: center;
     background: #5076bb;
-    padding: 120px 0px;
+    padding: 70px 0px;
     color: #fff;
 }
 
@@ -5556,7 +5556,7 @@
 }
 
 .featured_section98 .box.first {
-    text-align: right;
+    /* text-align: right; */
     background: #fff;
     margin-top: 75px;
 }
@@ -5569,7 +5569,7 @@
 .featured_section98 .box {
     float: left;
     color: #393939;
-    width: 24.250%;
+    /* width: 24.250%; */
     margin-right: 1%;
     text-align: center;
     background: #f3f3f3;
@@ -7986,12 +7986,12 @@
 }
 
 .parallax_section10 .one_fourth p {
-    color: #50c9d4;
+    color: #5076bb;
     margin: 0 0 14px 0;
 }
 
 .parallax_section10 .one_fourth a:hover {
-    color: #50c9d4;
+    color: #5076bb;
     transition: all 0.3s ease;
 }
 

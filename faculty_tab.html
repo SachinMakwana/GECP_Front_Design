@@ -1,11 +1,5 @@
 <!doctype html>
-<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
 <html lang="en-gb" class="no-js">
-<!--<![endif]-->
-
 
 <head>
     <title>GECP</title>
@@ -41,7 +35,6 @@
     <!-- font awesome icons -->
     <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
 
-
     <!-- simple line icons -->
     <link rel="stylesheet" type="text/css" href="css/simpleline-icons/simple-line-icons.css" media="screen" />
 
@@ -64,48 +57,62 @@
     <link href="js/mainmenu/bootstrap.min.css" rel="stylesheet">
     <link href="js/mainmenu/demo.css" rel="stylesheet">
     <link href="js/mainmenu/menu2.css" rel="stylesheet">
-
-
     <!-- owl carousel -->
     <link href="js/carouselowl/owl.transitions.css" rel="stylesheet">
     <link href="js/carouselowl/owl.carousel.css" rel="stylesheet">
+
+    <!-- accordion -->
+    <link rel="stylesheet" type="text/css" href="js/accordion/style.css" />
 
     <!-- tabs -->
     <link rel="stylesheet" type="text/css" href="js/tabs/assets/css/responsive-tabs.css">
     <link rel="stylesheet" type="text/css" href="js/tabs/assets/css/responsive-tabs2.css">
     <link rel="stylesheet" type="text/css" href="js/tabs/assets/css/responsive-tabs3.css">
+
     <!-- cubeportfolio -->
     <link rel="stylesheet" type="text/css" href="js/cubeportfolio/cubeportfolio.min.css">
 
+    <!-- classyloader-->
+    <script type="text/javascript" src="js/universal/jquery.js"></script>
+    <script src="js/classyloader/jquery.classyloader.min.js"></script>
+    <!-- accordion -->
+    <link rel="stylesheet" type="text/css" href="js/accordion/style.css" />
 
+    <!-- progressbar -->
+    <link rel="stylesheet" href="js/progressbar/ui.progress-bar.css">
 
 </head>
 
 <body>
-
     <div class="site_wrapper">
 
-        <div class="top_nav">
+        <div class="top_section2">
             <div class="container">
+
 
                 <div class="left">
 
-                    <a href="mailto:info@yourdomain.com"><i class="fa fa-envelope"></i>&nbsp; info@yourdomain.com</a> <i class="fa fa-phone-square"></i>&nbsp; +88 123 456 7890
+                    <!-- Logo -->
+                    <div>
+                        <a href="index.html" id="logo"></a>
+                    </div>
 
                 </div>
                 <!-- end left -->
 
                 <div class="right">
 
-                    <a href="#" class="tpbut two active"><i class="fa fa-pencil-square-o"></i>&nbsp; Register</a>
-                    <a href="#" class="tpbut"><i class="fa fa-lock"></i>&nbsp; Login</a>
+                    <ul class="tinfo last">
+                        <li><i class="fa fa-phone"></i></li>
+                        <li><em>Call Us</em>
+                            <strong>+1 123-456-789000</strong></li>
 
-                    <ul class="topsocial">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                        <li><a href="#"><i class="fas fa-rss"></i></a></li>
+                    </ul>
+
+                    <ul class="tinfo">
+                        <li><i class="fa fa-envelope"></i></li>
+                        <li><em>Mail Us</em>
+                            <strong><a href="mailto:info@websitename.com">info@websitename.com</a></strong></li>
                     </ul>
 
                 </div>
@@ -123,13 +130,8 @@
 
             <div class="container">
 
-                <!-- Logo -->
-                <div class="logo">
-                    <a href="index.html" id="logo"></a>
-                </div>
-
                 <!-- Navigation Menu -->
-                <div class="menu_main">
+                <div class="menu_main_full2">
 
                     <div class="navbar yamm navbar-default">
 
@@ -139,8 +141,7 @@
                             </div>
                         </div>
 
-                        <div id="navbar-collapse-1" class="navbar-collapse collapse pull-right">
-
+                        <div id="navbar-collapse-1" class="navbar-collapse collapse">
                             <nav>
 
                                 <ul class="nav navbar-nav">
@@ -150,49 +151,83 @@
 
                                     </li>
 
-                                    <li class="dropdown"><a class="dropdown-toggle">About</a>
+                                    <li class="dropdown"><a href="#" class="dropdown-toggle">Institute</a>
                                         <ul class="dropdown-menu" role="menu">
                                             <li><a href="about.html">About Us</a></li>
-                                            <li><a href="campuscommitte.html">Campus Committees</a></li>
-                                            <li><a href="about3.html">Center Of Excellense</a></li>
+                                            <li><a href="coe.html">Center Of Excellense</a></li>
                                             <li><a href="newsletter.html">Newsletter</a></li>
+                                            <li><a href="rti.html">RTI</a></li>
 
 
 
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="about.html" class="dropdown-toggle">Academics</a>
+                                    <li class="dropdown"><a href="#" class="dropdown-toggle">Academics</a>
                                         <ul class="dropdown-menu" role="menu">
-                                            <li><a href="about.html">Academic Calender</a></li>
-                                            <li><a href="about2.html">Fees Structure</a></li>
+                                            <li><a href="calender.html">Academic Calender</a></li>
+
+                                            <li><a href="admission_process.html">Admission Process</a></li>
+                                            <li><a href="achievements.html">Achievements</a></li>
 
 
 
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="about.html" class="dropdown-toggle">Departments</a>
+                                    <li class="dropdown"><a href="#" class="dropdown-toggle">Departments</a>
                                         <ul class="dropdown-menu" role="menu">
-                                            <li><a href="about.html">Electronics & Communication</a></li>
-                                            <li><a href="about2.html">Computer</a></li>
-                                            <li><a href="about2.html">Electrical</a></li>
-                                            <li><a href="about2.html">Civil</a></li>
-                                            <li><a href="about2.html">Mechanical</a></li>
-                                            <li><a href="about2.html">Administrative Block</a></li>
-                                            <li><a href="about2.html">Siemens</a></li>
-                                            <li><a href="about2.html">Library</a></li>
+                                            <li><a href="ec.html">Electronics And Communication</a></li>
+                                            <li><a href="cse.html">Computer</a></li>
+                                            <li><a href="electrical.html">Electrical</a></li>
+                                            <li><a href="civil.html">Civil</a></li>
+                                            <li><a href="mechanical.html">Mechanical</a></li>
+                                            <li><a href="library.html">Library</a></li>
+                                            <li><a href="general.html">Administrative Block</a></li>
+                                            <li><a href="teqip.html">TEQIP</a></li>
 
 
 
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="about.html" class="dropdown-toggle">Campus Life</a>
+                                    <li class="dropdown"><a href="#" class="dropdown-toggle">Faculty</a>
                                         <ul class="dropdown-menu" role="menu">
-                                            <li><a href="about.html">NSS</a></li>
-                                            <li><a href="about2.html">Student Section</a></li>
+                                            <li><a href="cse_faculty.html">Electronics And Communication Faculties</a>
+                                            </li>
+                                            <li><a href="cse_faculty.html">Computer Faculties</a></li>
+                                            <li><a href="cse_faculty.html">Electrical Faculties</a></li>
+                                            <li><a href="cse_faculty.html">Civil Faculties</a></li>
+                                            <li><a href="cse_faculty.html">Mechanical Faculties</a></li>
+                                            <li><a href="cse_faculty.html">Library Faculties</a></li>
+                                            <li><a href="cse_faculty.html">Administrative Block Faculties</a></li>
+                                            <li><a href="cse_faculty.html">TEQIP Faculties</a></li>
+
+
+
+                                        </ul>
+                                    </li>
+
+                                    <li class="dropdown"><a href="about.html" class="dropdown-toggle">Campus
+                                            Committees</a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a href="womencell.html">Women Cell</a></li>
+                                            <li><a href="ssip.html">SSIP Cell</a></li>
+                                            <li><a href="nss.html">National Service Scheme(NSS)</a></li>
+                                            <li><a href="antiragging.html">Anti Ragging Cell</a></li>
+                                            <li><a href="grievence.html">Grievence Cell</a></li>
+                                            <li><a href="placementcell.html">Placement Cell</a></li>
+
+
+
+
+                                        </ul>
+                                    </li>
+
+                                    <li class="dropdown"><a href="#" class="dropdown-toggle">Campus Life</a>
+                                        <ul class="dropdown-menu" role="menu">
+
                                             <li><a href="gallery.html">Gallery</a></li>
-                                            <li><a href="about2.html">Canteen</a></li>
-                                            <li><a href="about2.html">Campus Map</a></li>
-                                            <li><a href="about2.html">Hostel</a></li>
+                                            <li><a href="canteen.html">Canteen</a></li>
+                                            <li><a href="campusmap.html">Campus Map</a></li>
+
 
 
 
@@ -200,32 +235,55 @@
                                         </ul>
                                     </li>
 
-                                    <li class="dropdown"><a href="about.html" class="dropdown-toggle">Contact</a>
+                                    <li class="dropdown"><a href="contact.html" class="dropdown-toggle">Contact</a>
 
                                     </li>
-                                </ul>
-                            </nav>
+
+
+
+
+
                         </div>
                     </div>
+                    </li>
+                    </ul>
+                    </li>
+
+
+                    </ul>
+
+                    </nav>
+
                 </div>
+
             </div>
-        </header>
+    </div>
+    <!-- end Navigation Menu -->
+
     </div>
 
-    <div class="clearfix"></div>
-    <div class="margin_top5"></div>
+    </header>
 
-    <div class="page_title2">
+
+
+    <div class="clearfix"></div>
+
+
+    <div class="page_title3">
         <div class="container">
 
-            <h1>
-                <bold>FACULTY DETAILS</bold>
+            <h1>Faculty Member<em>Government Engineering College</em>
+                <div class="line"></div>
             </h1>
-            <div class="pagenation">&nbsp;<a href="index.html">Home</a> <i>/</i> <a href="#">Departments</a> <i>/</i>CSE
-            </div>
 
         </div>
     </div>
+
+
+    <div class="clearfix">
+
+    </div>
+
 
     <div class="content_fullwidth">
         <div class="container">
@@ -282,7 +340,7 @@
         </div>
 
     </div>
-
+    <div class="margin_top2"></div>
 
     <footer class="footer4">
         <div class="container">
