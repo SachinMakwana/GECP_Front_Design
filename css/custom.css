@@ -438,7 +438,7 @@ a {
 }
 
 .featured_section98 .box.highlight {
-    background: #57a5da !important;
+    background-color: #5076bb !important;
 }
 
 .blacktext {
@@ -460,7 +460,7 @@ a {
 }
 
 .featured_section99 {
-    background: #57a5da !important;
+    background-color: #5076bb !important;
 }
 
 .st-accordion-two {
@@ -469,4 +469,36 @@ a {
 
 .parallax_section1 {
     padding: 30px 0px !important;
+}
+
+.featured_section60 {
+    padding: 40px 0px !important;
+}
+
+.featured_section3.two strong {
+    color: #5076bb !important;
+}
+
+.featured_section3 {
+    padding: 40px 0px 0px 0px !important;
+}
+
+#slider-outline .sl-div.two {
+    background-color: #5076bb !important;
+}
+
+.compact .header {
+    background-color: #5076bb !important;
+}
+
+.featured_section38 {
+    background-color: #5076bb !important;
+}
+
+.header {
+    background-color: #5076bb !important;
+}
+
+.featured_section40.two i {
+    background-color: #5076bb !important;
 }

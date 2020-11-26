@@ -1,0 +1,278 @@
+ <!-- <div class="featured_section64">
+        <div class="container">
+
+            <div class="tabs detached hide-title cross-fade animate place" data-anim-type="fadeIn" data-anim-delay="100">
+
+                <section>
+
+                    <h1><i class="fas fa-microchip"></i> EC</h1>
+
+                    <img src="images/site-img73.jpg" alt="" class=" one_half" />
+
+
+
+                    <div class="one_half last animate" data-anim-type="fadeIn" data-anim-delay="400">
+
+
+
+                        <ul class="tabs3 three">
+                            <li><a href="#ecstudent" target="_self">About Student</a></li>
+                            <li><a href="#eccompany" target="_self">About Company</a></li>
+                            <li><a href="#ecpackage" target="_self">Dream Package</a></li>
+                        </ul>
+
+                        <div class="tabs-content3 three">
+
+                            <div id="ecstudent" class="tabs-panel3">
+                                <p>Full Name: Tarushi Jauhari</p>
+                                <br>
+                                <p>Academic records: 8.90 CGPA</p>
+                                <br>
+                                <p>Semester:7 Sem</p>
+
+                            </div>
+                            <!-- end tab 1 -->
+
+                            <div id="eccompany" class="tabs-panel3">
+                                <img src="images/clientlogo15.png" alt="" class="placeperson" />
+                                <br /><br />
+                                <p>Development dolor sit amet, consectetur adipiscing elit. Phasellus ac fringilla nulla sit amet accumsan tortor It has survived not only five centuries.</p>
+                            </div>
+                            <!-- end tab 2 -->
+
+                            <div id="ecpackage" class="tabs-panel3">
+                                <p>Package: 18 Lakhs</p>
+                                <p>Bond: No Bond</p>
+
+                            </div>
+                            <!-- end tab 3 -->
+
+                        </div>
+                        <!-- end all tabs -->
+
+                    </div>
+                    <!-- end section -->
+
+                </section>
+                <!-- end section -->
+
+                <section>
+
+                    <h1><i class="fa fa-desktop"></i> Computer</h1>
+
+                    <img src="images/site-img73.jpg" alt="" class=" one_half" />
+
+
+
+                    <div class="one_half last animate" data-anim-type="fadeIn" data-anim-delay="400">
+
+
+
+                        <ul class="tabs3 three">
+                            <li><a href="#compperson" target="_self">About Student</a></li>
+                            <li><a href="#compcompany" target="_self">About Company</a></li>
+                            <li><a href="#comppackage" target="_self">Dream Package</a></li>
+                        </ul>
+
+                        <div class="tabs-content3 three">
+
+                            <div id="compperson" class="tabs-panel3">
+                                <p>Full Name: Tarushi Jauhari</p>
+                                <br>
+                                <p>Academic records: 8.90 CGPA</p>
+                                <br>
+                                <p>Semester:7 Sem</p>
+
+                            </div>
+                            <!-- end tab 1 -->
+
+                            <div id="compcompany" class="tabs-panel3">
+                                <img src="images/clientlogo15.png" alt="" class="placeperson" />
+                                <br /><br />
+                                <p>Development dolor sit amet, consectetur adipiscing elit. Phasellus ac fringilla nulla sit amet accumsan tortor It has survived not only five centuries.</p>
+                            </div>
+                            <!-- end tab 2 -->
+
+                            <div id="comppackage" class="tabs-panel3">
+                                <p>Package: 18 Lakhs</p>
+                                <p>Bond: No Bond</p>
+
+                            </div>
+                            <!-- end tab 3 -->
+
+                        </div>
+                        <!-- end all tabs -->
+
+                    </div>
+                    <!-- end section -->
+
+                </section>
+                <!-- end section -->
+
+                <section>
+
+                    <h1><i class="fa fa-bolt"></i> Electrical</h1>
+
+                    <img src="images/site-img73.jpg" alt="" class=" one_half" />
+
+
+
+                    <div class="one_half last animate" data-anim-type="fadeIn" data-anim-delay="400">
+
+
+
+                        <ul class="tabs3 three">
+                            <li><a href="#elecperson" target="_self">About Student</a></li>
+                            <li><a href="#eleccompany" target="_self">About Company</a></li>
+                            <li><a href="#elecpackage" target="_self">Dream Package</a></li>
+                        </ul>
+
+                        <div class="tabs-content3 three">
+
+                            <div id="elecperson" class="tabs-panel3">
+                                <p>Full Name: Tarushi Jauhari</p>
+                                <br>
+                                <p>Academic records: 8.90 CGPA</p>
+                                <br>
+                                <p>Semester:7 Sem</p>
+
+                            </div>
+                            <!-- end tab 1 -->
+
+                            <div id="eleccompany" class="tabs-panel3">
+                                <img src="images/clientlogo15.png" alt="" class="placeperson" />
+                                <br /><br />
+                                <p>Development dolor sit amet, consectetur adipiscing elit. Phasellus ac fringilla nulla sit amet accumsan tortor It has survived not only five centuries.</p>
+                            </div>
+                            <!-- end tab 2 -->
+
+                            <div id="elecpackage" class="tabs-panel3">
+                                <p>Package: 18 Lakhs</p>
+                                <p>Bond: No Bond</p>
+
+                            </div>
+                            <!-- end tab 3 -->
+
+                        </div>
+                        <!-- end all tabs -->
+
+                    </div>
+                    <!-- end section -->
+
+
+                </section>
+                <!-- end section -->
+
+                <section>
+
+                    <h1><i class="fas fa-hard-hat"></i> Civil</h1>
+                    <img src="images/site-img73.jpg" alt="" class=" one_half" />
+
+
+
+                    <div class="one_half last animate" data-anim-type="fadeIn" data-anim-delay="400">
+
+
+
+                        <ul class="tabs3 three">
+                            <li><a href="#civilperson" target="_self">About Student</a></li>
+                            <li><a href="#civilcompany" target="_self">About Company</a></li>
+                            <li><a href="#civilpackage" target="_self">Dream Package</a></li>
+                        </ul>
+
+                        <div class="tabs-content3 three">
+
+                            <div id="civilperson" class="tabs-panel3">
+                                <p>Full Name: Tarushi Jauhari</p>
+                                <br>
+                                <p>Academic records: 8.90 CGPA</p>
+                                <br>
+                                <p>Semester:7 Sem</p>
+
+                            </div>
+                            <!-- end tab 1 -->
+
+                            <div id="civilcompany" class="tabs-panel3">
+                                <img src="images/clientlogo15.png" alt="" class="placeperson" />
+                                <br /><br />
+                                <p>Development dolor sit amet, consectetur adipiscing elit. Phasellus ac fringilla nulla sit amet accumsan tortor It has survived not only five centuries.</p>
+                            </div>
+                            <!-- end tab 2 -->
+
+                            <div id="civilpackage" class="tabs-panel3">
+                                <p>Package: 18 Lakhs</p>
+                                <p>Bond: No Bond</p>
+
+                            </div>
+                            <!-- end tab 3 -->
+
+                        </div>
+                        <!-- end all tabs -->
+
+                    </div>
+                    <!-- end section -->
+
+
+
+                </section>
+
+                <section>
+
+                    <h1><i class="fa fa-wrench"></i> Mechanical</h1>
+
+                    <img src="images/site-img73.jpg" alt="" class=" one_half" />
+
+
+
+                    <div class="one_half last animate" data-anim-type="fadeIn" data-anim-delay="400">
+
+
+
+                        <ul class="tabs3 three">
+                            <li><a href="#mechperson" target="_self">About Student</a></li>
+                            <li><a href="#mechcompany" target="_self">About Company</a></li>
+                            <li><a href="#mechpackage" target="_self">Dream Package</a></li>
+                        </ul>
+
+                        <div class="tabs-content3 three">
+
+                            <div id="mechperson" class="tabs-panel3">
+                                <p>Full Name: Tarushi Jauhari</p>
+                                <br>
+                                <p>Academic records: 8.90 CGPA</p>
+                                <br>
+                                <p>Semester:7 Sem</p>
+
+                            </div>
+                            <!-- end tab 1 -->
+
+                            <div id="mechcompany" class="tabs-panel3">
+                                <img src="images/clientlogo15.png" alt="" class="placeperson" />
+                                <br /><br />
+                                <p>Development dolor sit amet, consectetur adipiscing elit. Phasellus ac fringilla nulla sit amet accumsan tortor It has survived not only five centuries.</p>
+                            </div>
+                            <!-- end tab 2 -->
+
+                            <div id="mechpackage" class="tabs-panel3">
+                                <p>Package: 18 Lakhs</p>
+                                <p>Bond: No Bond</p>
+
+                            </div>
+                            <!-- end tab 3 -->
+
+                        </div>
+                        <!-- end all tabs -->
+
+                    </div>
+                    <!-- end section -->
+
+
+                </section>
+                <!-- end section -->
+
+            </div>
+
+        </div>
+    </div>
+    <!-- end featured section 64 -->
+ -->
